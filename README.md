@@ -70,6 +70,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 ## ` BUILDPACKS`
 
 ```
+heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
