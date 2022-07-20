@@ -35,7 +35,7 @@ Man Bot Multi Device is a automated whatsapp bot created by <a href="https://git
 <p align="center">
 <a href="https://wa.me/6282146354240"><img src="https://img.shields.io/badge/Contact Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/c/Anjarman20"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://youtube.com/c/Anjarman20"><img src="https://img.shields.io/badge/Subscribe Anjarman20-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
