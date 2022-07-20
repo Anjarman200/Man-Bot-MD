@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Anjarman200" target="_blank">Man</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Man Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Anjarman200" target="_blank">Man</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
+<a href="https://github.com/Anjarman200/followers"><img title="Followers" src="https://img.shields.io/github/followers/Anjarman200?color=red&style=flat-square"></a>
 <a href="https://github.com/Anjarman200/Man-Bot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Anjarman200/Man-Bot-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Anjarman200/Man-Bot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Anjarman200/Man-Bot-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Anjarman200/Man-Bot-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anjarman200/Man-Bot-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Anjarman200/Man-Bot-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Anjarman200/Man-Bot-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Man%20Bot%20Inc.-red?v=103"></a>
 <a href="https://github.com/Anjarman200/Man-Bot-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Anjarman200/Man-Bot-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FMan-Bot-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDG%2FMan-Bot-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Anjarman200/Man-Bot-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
